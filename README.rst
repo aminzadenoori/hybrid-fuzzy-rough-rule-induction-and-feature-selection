@@ -22,4 +22,4 @@ Requirements
 Notice
 =======
 
-*jar file is available and could be runned by the argument /wine.data for adress of wine.data file
+*jar file is available and can  be used by the argument /wine.data for adress of wine.data file
