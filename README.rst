@@ -19,4 +19,4 @@ Requirements
 Notice
 =======
 
-*jar file is availebel
+*jar file is available
