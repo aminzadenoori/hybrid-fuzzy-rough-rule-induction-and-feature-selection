@@ -9,7 +9,7 @@ Overview
 
 this is the implementation of Hybrid-fuzzy-rough-Rule-induction-and-feature-selection paper by Eichard Jensen 
 
-this pape is a great easy to implement fuzzy-rough set paper for who wants to become familiar with this concept
+this pape is an  easy to implement fuzzy-rough set paper for who wants to become familiar with this concept
 
 Requirements
 ============
