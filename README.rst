@@ -1,5 +1,5 @@
 ======
-Hybrid-fuzzy-rough-Rule-induction-and-feature-selection
+Hybrid fuzzy-rough Rule induction and feature selection
 ======
 
 
