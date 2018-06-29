@@ -12,7 +12,7 @@ this is the implementation of Hybrid-fuzzy-rough-Rule-induction-and-feature-sele
 this pape is an  easy to implement fuzzy-rough set paper for who wants to become familiar with this concept
 
 
-* this implementation is specified for Wine dataset(https://archive.ics.uci.edu/ml/datasets/wine)
+* this implementation has been specified for Wine dataset(https://archive.ics.uci.edu/ml/datasets/wine)
 
 Requirements
 ============
