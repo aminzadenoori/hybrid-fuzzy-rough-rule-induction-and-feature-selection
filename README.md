@@ -1,4 +1,7 @@
 # Hybrid fuzzy-rough Rule induction and feature selection
+### Introduction
+This reposoirty is implementation of the paper `Hybrid Fuzzy-Rough Rule Induction and Feature Selection 2009`. This paper proposes such an approach, based on fuzzy-rough sets. The algorithm is experimentally evaluated against leading classifiers, including fuzzy and rough rule inducers, and shown to be effective.
+
 
 ### Table of Contents
 
