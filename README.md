@@ -11,7 +11,7 @@ This reposoirty is implementation of the paper `Hybrid Fuzzy-Rough Rule Inductio
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 <p align="center">
-  <img src="1_tena7DCKQfVJQc7BXkW7aA.png" width="350" title="hover text">
+  <img src="1_tena7DCKQfVJQc7BXkW7aA.png" width="500" title="hover text">
  
 </p>
 
