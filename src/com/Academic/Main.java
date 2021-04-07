@@ -25,8 +25,6 @@ public class Main {
             System.out.println("There is no specified wine data set");
             System.exit(0);
         }
-
-
         DATA_SET=args[0];
         readCSV(DATA_SET);//reading CSV file and storing the data set in two arrays of features and classes
         HybridFuzzyRough hybridFuzzyRough=new HybridFuzzyRough();//creating new object of HybridFuzzyRough class
@@ -37,12 +35,6 @@ public class Main {
         hybridFuzzyRough.calcuateStandardDivision();//calculating and storing standard diviation at the begining of process for run time efficiency
         hybridFuzzyRough.objectsPOSA();//calculating and storing positive region of A set at the beginning of process for run time efficiency
         hybridFuzzyRough.folding();
-
-
-
-
-
-
     }
     /*
     *  reading the file of data set using apache common CSV 1.5
