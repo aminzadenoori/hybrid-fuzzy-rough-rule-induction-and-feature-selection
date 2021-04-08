@@ -1,7 +1,7 @@
 # hybrid fuzzy rough Rule induction and feature selection
 ### Introduction
 This reposoirty is implementation of the paper `Hybrid Fuzzy-Rough Rule Induction and Feature Selection 2009`. This paper proposes an approach, based on fuzzy-rough sets. The algorithm is experimentally evaluated against leading classifiers, including fuzzy and rough rule inducers, and shown to be effective. In this project wine
-dataset is used.
+dataset is used which contains the results of a chemical analysis of wines grown in a specific area of Italy. Three types of wine are represented in the 178 samples, with the results of 13 chemical analyses recorded for each sample.
 
 
 ### Table of Contents
