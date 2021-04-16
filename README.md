@@ -18,7 +18,7 @@ dataset is used which contains the results of a chemical analysis of wines grown
 
 ## Installation <a name="installation"></a>
 
-This project uses 'java 8':
+This project uses `java 8`:
 * java
 
 
